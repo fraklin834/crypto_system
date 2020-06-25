@@ -1,4 +1,4 @@
-# Implementation des fonctions de hachage MD4,MD5 et SHA-1 en C
+# Implementation des fonctions de hachage MD4,MD5 et SHA-1
 
 Pour exécuter l'application,il faut:
 
